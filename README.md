@@ -1,1 +1,3 @@
-        1 file(s) copied.
+# Git tutorial
+
+This repository is for a Noroff Git Tutorial.
